@@ -1,5 +1,4 @@
-# 💫 About Me:
-/I'm curently pursuing a bachelor's degree in Mechatronics Engineering<br>/I'm currently learning web development with Javascript and React<br>/I'm looking to expand and put into practice my web development skills<br>/I'm looking for any internships or Jr positions in the web development area<br>/I'm excited to later on work with a team of great individuals
+
 
 
 ## 🌐 Socials:
